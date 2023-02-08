@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Subhamsidharth/Project_Products_Management.git"
+    "url":  "git+https://github.com/Sanusrivastava/Project-5.git"
   },
   "keywords": [],
   "author": "Ibrahim Khan, Subham, Rinki and Faizan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Subhamsidharth/Project_Products_Management/issues"
+    "url": "https://github.com/Sanusrivastava/Project-5/issues"
   },
-  "homepage": "https://github.com/Subhamsidharth/Project_Products_Management#readme",
+  "homepage":  "https://github.com/Sanusrivastava/Project-5#readme",
   "dependencies": {
     "aws-sdk": "^2.1181.0",
     "bcrypt": "^5.0.1",
